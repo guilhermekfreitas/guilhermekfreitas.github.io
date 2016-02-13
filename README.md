@@ -1,2 +1,3 @@
-# guilhermekfreitas.github.io
-My GH Pages
+## Jekyll Documentation theme
+
+This is the readme page of the Jekyll documentation theme.
